@@ -18,6 +18,8 @@
 
 ## 如何呼叫 OpenClaw 回覆？
 
+> 回覆語言：預設一律使用 **繁體中文**。若你想要英文回覆，請在同一則留言明確註明：`reply in English`。
+
 在 Discussions 的留言中加上：
 
 - `@openclaw`
